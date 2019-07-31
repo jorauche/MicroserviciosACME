@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Acme-HR_SysWorkStation Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Asus
+Implementation-Vendor-Id: com.consulting.mgt.springboot
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Acme-HR_SysWorkStation
+Created-By: Maven Integration for Eclipse
+
